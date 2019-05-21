@@ -6,9 +6,4 @@ class Person
     @email = email
   end
 
-  ## TODO: Fix the misspelled method name below.
-  def first_name
-    'Dave Test'
-  end
-
 end
