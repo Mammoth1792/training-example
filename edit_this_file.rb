@@ -6,5 +6,9 @@ class HelloWorld
   def say_hi
     puts "Hello #{@name}!"
   end
+  
+  #WHAT
+  #IS
+  #HAPPENING
 
 end
