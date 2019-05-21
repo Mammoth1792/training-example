@@ -6,4 +6,6 @@ class Person
     @email = email
   end
 
+#WHATEVER
+
 end
