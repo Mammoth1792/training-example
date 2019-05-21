@@ -7,8 +7,4 @@ class HelloWorld
     puts "Hello #{@name}!"
   end
 
-  # TODO: Remove this comment and the method below.
-  def say_bye
-    puts "Good-bye #{@name}!"
-  end
 end
